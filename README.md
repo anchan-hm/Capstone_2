@@ -1,4 +1,4 @@
-# **EmporiUm Sales Territory Analysis: Capstone 2**
+# **EmporiUm Sales Territory Analysis: 2**
 
 
 
@@ -29,4 +29,18 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 * NumPy
 * Matplotlib
 * Jupyter Notebook
+
+
+
+
+
+### **Video Presentation:**
+
+
+
+
+
+# **Appendix: Bonus**
+
+
 
