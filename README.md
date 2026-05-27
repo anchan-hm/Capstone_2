@@ -44,7 +44,7 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 
 
 
-#### **Bonus Overview:**
+### **Bonus Overview:**
 
 For the bonus part of this project, I have expanded my analysis by exploring additional questions about monthly performance, year-over-year revenue, and long-term trends beyond my assigned territories. I used the same workflow from the main project to break down each question, perform calculations, and create visualizations to support my findings.
 
