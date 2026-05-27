@@ -1,8 +1,8 @@
-# **EmporiUm Sales Territory Analysis: 2**
+# **EmporiUm Sales Territory Analysis 2**
 
 
 
-### **Project Overview**
+### **Project Overview:**
 
 For this project, I have been assigned to analyze sales data for two EmporiUm bookstore territories: **Texas** and **South** **Carolina**. The goal was to answer the managers' questions and to compare how each territory performed and used data insights to recommend where marketing should focus next quarter.
 
@@ -12,7 +12,7 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 
 
 
-### **Key Points From Analysis**
+### **Key Points From Analysis:**
 
 * Identified the territory managers and listed the store IDs and cities for each territory.
 * Calculated monthly in-store total revenue for both South Carolina and Texas.
@@ -22,7 +22,7 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 
 
 
-### **Tools \& Libraries Used**
+### **Tools \& Libraries Used:**
 
 * Python
 * Pandas
@@ -40,7 +40,11 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 
 
 
-# **Appendix: Bonus**
+# **Appendix:**
 
 
+
+#### **Bonus Overview:**
+
+For the bonus part of this project, I have expanded my analysis by exploring additional questions about monthly performance, year-over-year revenue, and long-term trends beyond my assigned territories. I used the same workflow from the main project to break down each question, perform calculations, and create visualizations to support my findings.
 
