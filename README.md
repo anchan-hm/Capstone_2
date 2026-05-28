@@ -4,11 +4,11 @@
 
 ### **Project Overview:**
 
-For this project, I have been assigned to analyze sales data for two EmporiUm bookstore territories: **Texas** and **South** **Carolina**. The goal was to answer the managers' questions and to compare how each territory performed and used data insights to recommend where marketing should focus next quarter.
+For this project, I have been assigned to analyze sales data for two EmporiUm bookstore territories: **Texas** and **South** **Carolina**. The goal is to answer the managers' questions and to compare how each territory performed and use data insights to recommend where marketing should focus next quarter.
 
 
 
-The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**, **NumPy** and **Matplotlib**. I broke down each question into markdown and code blocks, performed calculations and created charts to visualize store and category performance.
+The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**, **NumPy, Matplotlib** and **scikit-learn**. I broke down each question into markdown and code blocks, performed calculations and created charts to visualize store and category performance.
 
 
 
@@ -28,6 +28,7 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 * Pandas
 * NumPy
 * Matplotlib
+* scikit-learn (sklearn)
 * Jupyter Notebook
 
 
@@ -46,5 +47,5 @@ The analysis was completed in **Jupyter Notebook** using **Python**, **Pandas**,
 
 ### **Bonus Overview:**
 
-For the bonus part of this project, I have expanded my analysis by exploring additional questions about monthly performance, year-over-year revenue, and long-term trends beyond my assigned territories. I used the same workflow from the main project to break down each question, perform calculations, and create visualizations to support my findings.
+For the bonus portion of this project, I have expanded my analysis by exploring additional questions about monthly performance, year-over-year revenue, and long-term trends beyond my assigned territories. I used the same workflow from the main project to break down each question, perform calculations, and create visualizations to support my findings.
 
