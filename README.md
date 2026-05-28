@@ -4,7 +4,7 @@
 
 ### **Project Overview:**
 
-For this project, I have been assigned to analyze sales data for two EmporiUm bookstore territories: **Texas** and **South** **Carolina**. The goal is to answer the managers' questions and to compare how each territory performed and use data insights to recommend where marketing should focus next quarter.
+For this project, I have been assigned to analyze sales data for two EmporiUm bookstore territories: **Texas** and **South** **Carolina**. The goal is to answer the managers' questions and to compare how each territory performed, and use data insights to recommend where marketing should focus next quarter.
 
 
 
